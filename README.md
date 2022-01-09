@@ -1,12 +1,10 @@
 # EmailAutomationSender-admin-dashboard
-<h1>Email Automation Sender</h1>
-<br>
 <hr>
 <h3>Description</h3>
 <br>
 <p>So,I have used django admin as an dashboard.So ,all you have to do is just login with username:-admin,password:-admin then you will be redirected to django admin page where
 you can add user data.User data has username,email,city(mumbai,chennai,delhi,banglore,kolkata) attributes.And after saving this data one email along with temperature of
-that particular city will be send on your entered emailid.If this email sent succesfully then only this data will be save in emailSucessfullySent Table.<p>
+that particular city will be send on your entered emailid.If this email sent succesfully then only this data will be save in emailSucessfullySent Table.</p>
 <br>
 <hr>
 <h3>How do I create this?/h3>
